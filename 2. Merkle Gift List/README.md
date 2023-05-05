@@ -4,9 +4,9 @@ A server verifying a client's proof by comparing the root hash of a merkle tree
 
 ## Libraries Used
 
--ethereum-cryptography
--express
--axios
+* ethereum-cryptography
+* express
+* axios
 
 
 ## Client
