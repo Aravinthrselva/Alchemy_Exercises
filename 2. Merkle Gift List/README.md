@@ -2,6 +2,13 @@
 
 A server verifying a client's proof by comparing the root hash of a merkle tree
 
+## Libraries Used
+
+-ethereum-cryptography
+-express
+-axios
+
+
 ## Client
 
 You can run the client from the top-level directory with `node client/index`. This file is a script which will send an HTTP request to the server.
